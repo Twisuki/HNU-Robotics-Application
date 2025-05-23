@@ -1,0 +1,13 @@
+# Editor
+.idea/
+.vscode/
+
+# node
+node_modules/
+
+# vuepress
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+
+
