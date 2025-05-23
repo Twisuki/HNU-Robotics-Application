@@ -1,4 +1,6 @@
-# 20-卢家骥 UCSB M.S. in Electrical and Computer Engineering-Computer Engineering
+# 卢家骥 UCSB
+
+UCSB M.S. in Electrical and Computer Engineering-Computer Engineering
 
 ## 基本背景
 
