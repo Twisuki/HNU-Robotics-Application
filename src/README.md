@@ -2,11 +2,12 @@
 home: true
 layout: Blog
 icon: house
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+title: 主页
+heroImage: /index/Robotics.png
+heroText: 学生手册
+heroFullScreen: false
+bgImage: /index/bg.jpg
+tagline: 
 projects:
   - icon: folder-open
     name: 项目名称
