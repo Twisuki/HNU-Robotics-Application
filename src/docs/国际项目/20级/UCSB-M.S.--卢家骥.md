@@ -1,3 +1,13 @@
+---
+title: 卢家骥 UCSB国际化项目
+author: 卢家骥
+icon: lucide:play
+category:
+  - 国际项目
+  - 20级
+---
+
+
 # 卢家骥 UCSB
 
 UCSB M.S. in Electrical and Computer Engineering-Computer Engineering
