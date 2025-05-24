@@ -1,6 +1,7 @@
 ---
 title: 卢家骥 UCSB国际化项目
 author: 卢家骥
+article: false
 icon: lucide:play
 category:
   - 国际项目
