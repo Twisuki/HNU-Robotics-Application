@@ -16,24 +16,24 @@ export default defineUserConfig({
           "script",
           {},
           `\
-            const articleList = document.getElementById("article-list");
-            if (articleList !== null) {
-                const wrappers = articleList.getElementsByClassName("vp-article-wrapper");
-                if (wrappers !== null) {
-                    Array.from(wrappers).forEach((wrapper) => {
-                        const categorys = wrapper.getElementsByClassName("page-category-info");
-                        if (categorys !== null) {
-                            const category = categorys[0];
-                            const content = category.querySelector("meta").getAttribute("content");
-                            console.log(content);
-                            
-                            if (content !== "目录") {
-                                wrapper.classList.add("hidden");
-                            }
-                        }
-                    });
-                }
-            }
+            // const articleList = document.getElementById("article-list");
+            // if (articleList !== null) {
+            //     const wrappers = articleList.getElementsByClassName("vp-article-wrapper");
+            //     if (wrappers !== null) {
+            //         Array.from(wrappers).forEach((wrapper) => {
+            //             const categorys = wrapper.getElementsByClassName("page-category-info");
+            //             if (categorys !== null) {
+            //                 const category = categorys[0];
+            //                 const content = category.querySelector("meta").getAttribute("content");
+            //                 console.log(content);
+            //                
+            //                 if (content !== "目录") {
+            //                     wrapper.classList.add("hidden");
+            //                 }
+            //             }
+            //         });
+            //     }
+            // }
           `,
       ],
   ]
