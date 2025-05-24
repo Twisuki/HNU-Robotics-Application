@@ -1,4 +1,0 @@
-User-agent:*
-Disallow:
-
-Sitemap: https://twis.uk/HNU-Robotics-Application/sitemap.xml
