@@ -4,7 +4,8 @@ index: false
 timeline: false
 type: index
 icon: book
-category: ""
+category: 
+  - 目录
 ---
 
 <Catalog />
