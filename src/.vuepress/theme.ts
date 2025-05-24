@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://twis.uk/HNU-Robotics-Application/",
+  hostname: "",
 
   logo: "/logo.png",
 
